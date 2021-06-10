@@ -1,0 +1,1 @@
+This is practice writing in a text editor and tracking the changes via Git. This will be uploaded to GitHub. 

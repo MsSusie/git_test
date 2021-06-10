@@ -1,6 +1,8 @@
 # git_test
 
-This is a test on how to:
+This is Susanna's first git project.
+
+My goals today:
 - create a Git repository and copy to local machine
 - staging and committing changes
 - commiting changes and pushing onto GitHub
